@@ -1,0 +1,42 @@
+# Untranspiled source and examples
+examples
+src
+
+# Dependencies
+node_modules
+yarn.lock
+
+# NextJs
+.next
+out
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+
+# Logs
+runtime.log
+
+# Testing
+cypress
+cypress.json
+coverage
+jest.*
+.e2e
+*.test.*
+
+# Build tools
+tsconfig.json
+.eslintrc.json
+babel.config.json
+
+# Misc
+.circleci
+.all-contributorsrc
+greenkeeper.json
+.github
+Procfile
+*.md
+scripts
